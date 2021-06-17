@@ -4,4 +4,4 @@ Hello, I'm Selvavinayagan Babiharan ! 👋
 - 🌱 I’m currently learning AI & ML
 - 💬 Ask me about CEH
 - 📫 How to reach me : babiharan98@gmail.com
-⚡ Fun fact: Time spend with machine > Time spend with humans <3
+- ⚡ Fun fact: Time spend with machine > Time spend with humans <3
